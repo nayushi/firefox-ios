@@ -1222,6 +1222,9 @@
 /* The placeholder for URL Field when saving a custom search engine */
 "Settings.AddCustomEngine.URLPlaceholder" = "URL (แทนที่คำสืบค้นด้วย %s)";
 
+/* Label used as an item in Settings screen. When touched, it will take user to credit card settings page to that will allows to add or modify saved credit cards to allow for autofill in a webpage. */
+"Settings.AutofillCreditCard.Title.v110" = "เติมบัตรเครดิตอัตโนมัติ";
+
 /* Button in Data Management that clears all items. */
 "Settings.ClearAllWebsiteData.Clear.Button" = "ล้างข้อมูลเว็บไซต์ทั้งหมด";
 
@@ -1295,7 +1298,7 @@
 "Settings.DisplayTheme.SwitchTitle" = "โดยอัตโนมัติ";
 
 /* System theme settings section title */
-"Settings.DisplayTheme.SystemTheme.SectionHeader" = "ชุดตกแต่งระบบ";
+"Settings.DisplayTheme.SystemTheme.SectionHeader" = "ชุดรูปแบบของระบบ";
 
 /* System theme settings switch to choose whether to use the same theme as the system */
 "Settings.DisplayTheme.SystemTheme.SwitchTitle" = "ใช้โหมดสว่าง/มืดของระบบ";
