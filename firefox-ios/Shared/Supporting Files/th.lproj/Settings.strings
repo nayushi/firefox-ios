@@ -73,9 +73,6 @@
 /* In the AI Controls settings, in the AI powered features section, this is the text that indicates the feature is turned off. */
 "Settings.AIControls.AIPoweredFeaturesSection.BlockedStatus.v151" = "ปิดกั้น";
 
-/* In the AI Controls settings, in the AI powered features section, this is the text that what the blocked status means. The content between the ** ** is bolded. Please do not remove these in translation. */
-"Settings.AIControls.AIPoweredFeaturesSection.BlockedStatusDescription.v151" = "**ปิดกั้น**: คุณจะไม่เห็นและไม่สามารถใช้งานคุณลักษณะนี้ สำหรับ AI บนอุปกรณ์ โมเดลที่ดาวน์โหลดไว้จะถูกลบ";
-
 /* In the AI Controls settings, in the AI powered features section, this is the message that describes the pages summaries feature */
 "Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Message.v151" = "หน้าและสรุปเนื้อหาไม่เคยถูกเก็บไว้";
 
@@ -254,10 +251,10 @@
 "Settings.Search.PageTitle.v121" = "ค้นหา";
 
 /* Description for `Show in Private Sessions` toggle, located in `Suggestions from Search Engines` section in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในเซสชันส่วนตัว";
 
 /* Label for toggle. Explains that in private browsing mode, the search suggestions which appears at the top of the search bar, can be toggled on or off. Located in `Suggestions from Search Engines` and `Address Bar - Firefox Suggest` sections in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Setting.v124" = "แสดงในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Setting.v124" = "แสดงในเซสชันส่วนตัว";
 
 /* Label for the `show search suggestions` setting, in the Search Settings page. */
 "Settings.Search.ShowSuggestions.v121" = "แสดงข้อเสนอแนะการค้นหา";
@@ -269,7 +266,7 @@
 "Settings.Search.Suggest.LearnAboutSuggestions.v124" = "เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox Suggest";
 
 /* Description for `Show in Private Sessions` toggle, located in `Address Bar - Firefox Suggest` section in the Search page in the Settings menu. */
-"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในวาระส่วนตัว";
+"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในเซสชันส่วนตัว";
 
 /* In the Search page of the Settings menu, the title for the setting to enable search browsing history. */
 "Settings.Search.Suggest.SearchBrowsingHistory.Title.v124" = "ค้นหาประวัติการเรียกดู";
@@ -322,12 +319,6 @@
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "ท่าทาง";
 
-/* The accessibility label for the language picker button in the Summarize settings. */
-"Settings.Summarize.LanguageSection.PickerButtonAccessibilityLabel.v149" = "เลือกภาษา";
-
-/* The label for the picker option to select the preferred app language for the summarizer inside the Summarize settings. The preferred app language refers to the language that the user has selected to use for the app in the app settings. */
-"Settings.Summarize.LanguageSection.PreferredAppLanguageLabel.v149" = "ภาษาของแอปที่ต้องการ";
-
 /* The title for the language choose section for the summarizer inside the Summarize settings. */
 "Settings.Summarize.LanguageSection.Title.v149" = "ภาษา";
 
@@ -358,6 +349,30 @@
 /* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "แท็บใหม่";
 
+/* Footer text below the auto-translate toggle in the Translation settings screen. */
+"Settings.Translation.AutoTranslate.Footer.v151" = "แปลหน้าเว็บเป็นภาษาที่คุณเลือกโดยอัตโนมัติ";
+
+/* Title for the auto-translate toggle in the Translation settings screen. */
+"Settings.Translation.AutoTranslate.Title.v151" = "แปลโดยอัตโนมัติ";
+
+/* Navigation bar title of the language picker shown when adding a preferred translation language. */
+"Settings.Translation.LanguagePicker.NavTitle.v151" = "เลือกภาษา";
+
+/* Placeholder text for the search bar in the translation language picker. */
+"Settings.Translation.LanguagePicker.SearchPlaceholder.v151" = "ค้นหา";
+
+/* Row label in the preferred languages list that opens the language picker to add a new preferred language for translation. */
+"Settings.Translation.PreferredLanguages.AddLanguage.v151" = "เพิ่มภาษา…";
+
+/* Subtitle on the device language row in the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.DeviceLanguage.v151" = "ภาษาของอุปกรณ์";
+
+/* Footer text below the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.Footer.v151" = "เลือกจากภาษาเหล่านี้เมื่อแปล";
+
+/* Section header for the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.SectionTitle.v151" = "ภาษาที่ต้องการ";
+
 /* This is the section title text for the the Translation feature under the Translation settings section. */
 "Settings.Translation.SectionTitle.v145" = "ค่ากำหนดการแปล";
 
@@ -369,6 +384,9 @@
 
 /* In the settings menu, in the General section, this is the title for the Translation settings section. */
 "Settings.Translation.Title.v145" = "การแปล";
+
+/* Footer text below the enable toggle in the Translation settings screen. */
+"Settings.Translation.ToggleFooter.v151" = "ปิดตัวเลือกนี้เพื่อเอาการแปลออกจากแถบเครื่องมือและเมนู";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
 "Settings.Translation.ToggleTitle.v145" = "เปิดใช้งานการแปล";
