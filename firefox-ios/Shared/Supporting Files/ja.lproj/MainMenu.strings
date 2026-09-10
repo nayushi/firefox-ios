@@ -289,12 +289,6 @@
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v144" = "共有";
 
-/* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
-"MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "ウェブサイトのダークモードをオフにする";
-
-/* On the main menu, the title for the action that will turn Website's Dark Mode on in the application. */
-"MainMenu.Submenus.Tools.WebsiteDarkMode.On.Title.v137" = "ウェブサイトのダークモードをオンにする";
-
 /* On the main menu, the title for the action that indicate, website dark mode can be turned on or off. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Title.v141" = "ウェブサイトのダークモード";
 
@@ -349,6 +343,9 @@
 /* On the main menu, the accessibility label for the action that will open the page zoom tool. */
 "MainMenu.ToolsSection.AccessibilityLabels.PageZoom.Title.v142" = "ページズーム";
 
+/* On the main menu, the accessibility label for the action that will show or hide the reader view of the webpage. */
+"MainMenu.ToolsSection.AccessibilityLabels.ReaderView.v150" = "リーダービュー";
+
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "保存";
 
@@ -391,6 +388,12 @@
 /* On the main menu, the title for the action that will show the reader view for the webpage. */
 "MainMenu.ToolsSection.ReaderView.Title.v149" = "リーダービュー";
 
+/* On the main menu, the label for the action that indicates that Reader view is turned off. */
+"MainMenu.ToolsSection.ReaderViewOff.Title.v150" = "オフ";
+
+/* On the main menu, the label for the action that indicates that Reader view is turned on. */
+"MainMenu.ToolsSection.ReaderViewOn.Title.v150" = "オン";
+
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "保存";
 
@@ -411,6 +414,9 @@
 
 /* On the main menu, the accessibility label describing the language that the webpage was translated to. %@ is the language selected (e.g. English). */
 "MainMenu.ToolsSection.Translation.AccessibilityLabels.TranslatedPageLanguage.v145" = "%@ に翻訳しました";
+
+/* On the main menu, the badge shown on the Translate Page item when translation is inactive. */
+"MainMenu.ToolsSection.Translation.Off.v151" = "オフ";
 
 /* On the main menu, the title for the action that will translate the content of the webpage. */
 "MainMenu.ToolsSection.Translation.Title.v145" = "ページを翻訳";
