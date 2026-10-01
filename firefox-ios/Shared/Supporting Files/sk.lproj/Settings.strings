@@ -73,9 +73,6 @@
 /* In the AI Controls settings, in the AI powered features section, this is the text that indicates the feature is turned off. */
 "Settings.AIControls.AIPoweredFeaturesSection.BlockedStatus.v151" = "Blokovaná";
 
-/* In the AI Controls settings, in the AI powered features section, this is the text that what the blocked status means. The content between the ** ** is bolded. Please do not remove these in translation. */
-"Settings.AIControls.AIPoweredFeaturesSection.BlockedStatusDescription.v151" = "**Blokovaná**: funkciu neuvidíte a nemôžete ju používať. V prípade umelej inteligencie v zariadení sa odstránia všetky stiahnuté modely.";
-
 /* In the AI Controls settings, in the AI powered features section, this is the message that describes the pages summaries feature */
 "Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Message.v151" = "Stránky a súhrny sa nikdy neukladajú.";
 
@@ -322,12 +319,6 @@
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "Gestá";
 
-/* The accessibility label for the language picker button in the Summarize settings. */
-"Settings.Summarize.LanguageSection.PickerButtonAccessibilityLabel.v149" = "Vyberte jazyk";
-
-/* The label for the picker option to select the preferred app language for the summarizer inside the Summarize settings. The preferred app language refers to the language that the user has selected to use for the app in the app settings. */
-"Settings.Summarize.LanguageSection.PreferredAppLanguageLabel.v149" = "Preferovaný jazyk aplikácie";
-
 /* The title for the language choose section for the summarizer inside the Summarize settings. */
 "Settings.Summarize.LanguageSection.Title.v149" = "Jazyk";
 
@@ -358,6 +349,30 @@
 /* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Nová karta";
 
+/* Footer text below the auto-translate toggle in the Translation settings screen. */
+"Settings.Translation.AutoTranslate.Footer.v151" = "Automaticky prekladá stránky do vášho preferovaného jazyka.";
+
+/* Title for the auto-translate toggle in the Translation settings screen. */
+"Settings.Translation.AutoTranslate.Title.v151" = "Automatický preklad";
+
+/* Navigation bar title of the language picker shown when adding a preferred translation language. */
+"Settings.Translation.LanguagePicker.NavTitle.v151" = "Zvoľte jazyk";
+
+/* Placeholder text for the search bar in the translation language picker. */
+"Settings.Translation.LanguagePicker.SearchPlaceholder.v151" = "Hľadať";
+
+/* Row label in the preferred languages list that opens the language picker to add a new preferred language for translation. */
+"Settings.Translation.PreferredLanguages.AddLanguage.v151" = "Pridať jazyk…";
+
+/* Subtitle on the device language row in the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.DeviceLanguage.v151" = "Jazyk zariadenia";
+
+/* Footer text below the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.Footer.v151" = "Pri preklade si vyberte z týchto jazykov.";
+
+/* Section header for the preferred languages list in the Translation settings screen. */
+"Settings.Translation.PreferredLanguages.SectionTitle.v151" = "Preferované jazyky";
+
 /* This is the section title text for the the Translation feature under the Translation settings section. */
 "Settings.Translation.SectionTitle.v145" = "Nastavenia prekladania obsahu";
 
@@ -369,6 +384,9 @@
 
 /* In the settings menu, in the General section, this is the title for the Translation settings section. */
 "Settings.Translation.Title.v145" = "Preklady";
+
+/* Footer text below the enable toggle in the Translation settings screen. */
+"Settings.Translation.ToggleFooter.v151" = "Vypnutím tejto možnosti odstránite preklad z panela s nástrojmi a ponuky.";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
 "Settings.Translation.ToggleTitle.v145" = "Povoliť preklady";
